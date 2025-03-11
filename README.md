@@ -1,7 +1,7 @@
 # Akita Meshtastic Clustering System (AMCS)
 
 
-This repository contains the Akita Meshtastic Clustering System, a Meshtastic implementation designed to enhance message reliability, network robustness, and power efficiency.
+The Akita Meshtastic Clustering System, a Meshtastic implementation designed to enhance message reliability, network robustness, and power efficiency.
 
 ## Overview
 
