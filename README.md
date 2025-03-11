@@ -77,9 +77,6 @@ The Akita Meshtastic Clustering System addresses the challenges of unreliable me
 
 Akita Engineering welcomes contributions! Please submit pull requests or open issues for bug fixes, feature requests, or improvements.
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Future Enhancements (Akita Roadmap)
 
