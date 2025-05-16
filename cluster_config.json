@@ -1,9 +1,0 @@
-{
-  "node_id": 4567,
-  "heartbeat_interval": 12,
-  "ack_timeout": 6,
-  "rebroadcast_delay": 3,
-  "message_retention": 25,
-  "cluster_discovery_interval": 45,
-  "sleep_interval": 90
-}
