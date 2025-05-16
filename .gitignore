@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
+env/
+.venv/ # Common virtual environment name
+*.env
+*.log
+*.sqlite
+*.sqlite3
+
+# IDE and Editor Folders
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Configuration files (if they contain sensitive or node-specific data)
+# Consider uncommenting if cluster_config.json in root should be ignored
+# cluster_config.json
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+*.cover
+nosetests.xml
+coverage.xml
+*.prof
+*.lprof
+*.out
+# Sphinx documentation build output
+docs/_build/
+
+# Distribution / packaging
+*.tar.gz
+*.whl
+*.zip
+*.exe
+*.dll
+*.so
+*.dylib
+
+# MyPy cache
+.mypy_cache/
+
+# Ruff cache
+.ruff_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
