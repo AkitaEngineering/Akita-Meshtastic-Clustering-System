@@ -1,0 +1,17 @@
+# Copyright (c) 2025 Akita Engineering <https://www.akitaengineering.com>
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+# Core Meshtastic library
+# Use a specific version known to work with your hardware and this code's API assumptions,
+# or a recent stable version. Example: >=2.2.0, <2.3.0 if 2.3.0 has breaking changes.
+# As of May 2025, check the latest stable version from PyPI or Meshtastic project.
+meshtastic>=2.2.21 # Example: Using a relatively recent known version as of late 2023/early 2024.
+                  # You MUST verify compatibility and update if needed.
+
+# pubsub is a dependency of meshtastic-python and usually installed automatically.
+# Listing it explicitly can sometimes help with dependency resolution or ensure a specific version.
+# pyserial is also a dependency, usually handled by meshtastic.
+
+# Optional, for documentation generation (if building docs locally):
+# sphinx>=4.0.0
+# sphinx_rtd_theme>=1.0.0
