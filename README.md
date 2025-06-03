@@ -11,7 +11,7 @@ Developed by [Akita Engineering](https://www.akitaengineering.com) | Current Dat
 This codebase provides a **comprehensive framework** for the Akita Meshtastic Clustering System. However, it is **NOT yet ready for production deployment.**
 
 Before use, you **MUST**:
-1.  **Verify and Adapt Meshtastic API Calls:** The interactions with the `meshtastic-python` library in `src/akita_meshtastic_clustering/network.py` and `src/akita_meshtastic_clustering/power.py` are based on research and common patterns (likely v2.x of the library). These **must be verified and potentially modified** to match your specific `meshtastic-python` library version and hardware capabilities.
+1.  **Verify and Adapt Meshtastic API Calls:** The interactions with the `meshtastic-python` library in `src/akita_meshtastic_clustering/network.py` and `src/akita_meshtastic_clustering/power.py`  **must be verified and potentially modified** to match your specific `meshtastic-python` library version and hardware capabilities.
 2.  **Perform Thorough Hardware Testing:** This system requires extensive testing on actual Meshtastic devices in your target network environment to identify bugs, tune parameters, and ensure stability and reliability.
 3.  **Review Neighbor Synchronization Implementation:** While the framework and basic logic for neighbor message synchronization are in place, including message storage and response chunking, its real-world performance and edge cases need extensive validation and potential refinement if this feature is critical.
 
