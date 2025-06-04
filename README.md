@@ -6,7 +6,7 @@ Developed by [Akita Engineering](https://www.akitaengineering.com) | Current Dat
 
 ---
 
-**⚠️ IMPORTANT: DEVELOPMENT STATUS & REQUIRED ACTIONS ⚠️**
+** IMPORTANT: DEVELOPMENT STATUS & REQUIRED ACTIONS **
 
 This codebase provides a **comprehensive framework** for the Akita Meshtastic Clustering System. However, it is **NOT yet ready for production deployment.**
 
