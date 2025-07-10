@@ -174,16 +174,6 @@ Open `docs/_build/html/index.html` in your browser.
 ### Contributing
 Contributions are welcome! Please feel free to submit Pull Requests for bug fixes, feature enhancements, or improvements. For major changes, please open an Issue first to discuss the proposed changes.
 
-### Future Enhancements (Roadmap Ideas)
-* Robust Meshtastic API Integration: Continuously verify and improve `network.py` and `power.py`.
-* Advanced Power Management: Implement and test deep sleep modes using verified Meshtastic API calls.
-* Web Interface: A local web UI for configuration, status monitoring, and sending messages.
-* Scalability Optimizations: Test and optimize for larger numbers of nodes/clusters.
-* Comprehensive Test Suite: Expand unit tests and develop integration tests.
-* Security: Additional security layers beyond Meshtastic encryption if needed.
-* GPS Integration: Use location data for smarter clustering or location-aware features.
-* More Robust Election Algorithm: If the current election proves insufficient, explore elements from more advanced consensus protocols.
-
 ### License
 This project is licensed under the GNU General Public License v3.0. See the `LICENSE` file for the full license text.
 
